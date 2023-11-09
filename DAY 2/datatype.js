@@ -31,7 +31,7 @@
     //;                                                                     we can set values of deleteCount 
     //;                                                                     therefore it will remove the value
     //;                                                                     and add the new value
-    //^ eg         :- data.splice(1,1,'ece','palakkad')
+    //^ eg         :- data.splice(1,0,'ece','palakkad')
 
 //? Undefined   :- nothing had defined so far
 //: eg          :- let data = ['rajesh','23','true'];
